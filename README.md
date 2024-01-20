@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd. Sufiyan Siddiqui</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **a MERN project**
+
 
 - 📫 How to reach me **siddiquisufiyan0326@gmail.com**
 
